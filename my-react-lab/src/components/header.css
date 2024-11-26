@@ -1,0 +1,11 @@
+.par{
+    display: flex;
+    justify-content: center;
+}
+.header
+{
+    font-size: larger;
+    background: navy;
+    color: pink;
+    width: fit-content;
+}
