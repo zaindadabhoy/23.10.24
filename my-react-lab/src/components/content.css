@@ -4,4 +4,12 @@
     padding: 10px;
     background: red;
     color: pink;
+    width: fit-content;
+}
+
+
+.par
+{
+    display: flex;
+    justify-content: center;
 }

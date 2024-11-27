@@ -1,11 +1,8 @@
-.par{
-    display: flex;
-    justify-content: center;
-}
+
 .header
 {
     font-size: larger;
-    background: navy;
-    color: pink;
-    width: fit-content;
+    background: black   ;
+    color:  aliceblue;
+   text-align: center;
 }

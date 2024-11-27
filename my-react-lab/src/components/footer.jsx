@@ -1,9 +1,9 @@
 import React from 'react';
+import './footer.css';
 
-
-function content() {
+function footer() {
   return (
-    <div>
+    <div className='foot'>
       <h1>© 2024 My React App</h1>
     </div>
   );
