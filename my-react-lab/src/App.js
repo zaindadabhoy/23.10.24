@@ -1,16 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
-import Header from './components/header';
-import Content from './components/content';
-import Footer from './components/footer';
+import Counter from './components/counter'; 
+import Calculator from './components/calculator';
+import Form from './components/form';
+import Shop from './components/shop';
+
 function App() {
   return (
     <div className="App">
-      <Header />
-      <Content />
-      <Footer/>
-    </div>  
+      <Calculator/>
+      <Counter/>
+      <Form/>
+      <Shop/>
+    </div>
   );
 }
 
-export default App;
+export default App;

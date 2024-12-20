@@ -1,8 +1,6 @@
 .App {
+  background-color: antiquewhite;
   text-align: center;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column ;
 }
 
 .App-logo {
